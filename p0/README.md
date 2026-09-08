@@ -71,3 +71,84 @@
   - `container-fluid` makes the section stretch across the full width of the page.
   - `bg-secondary` gives the section the secondary Bootstrap background color.
   - `py-5` adds vertical padding to the top and bottom of the section.
+
+## Section 3: Site Inventory (Bottom Half)
+
+### About Section
+
+- **Line Numbers:** 188-210
+- **Top-Level Classes:** `container-fluid py-5 my-5`
+- **Research:**
+  - `container-fluid` makes the section stretch across the full width of the page.
+  - `py-5` adds vertical padding to the top and bottom of the section.
+  - `my-5` adds vertical margin above and below the section.
+
+### Services Section
+
+- **Line Numbers:** 213-297
+- **Top-Level Classes:** `container-fluid services py-5 mb-5`
+- **Research:**
+  - `container-fluid` makes the section full width.
+  - `services` applies the template's custom styling for the services section.
+  - `py-5` adds vertical padding to the top and bottom.
+  - `mb-5` adds margin below the section.
+
+### Project Section
+
+- **Line Numbers:** 300-389
+- **Top-Level Classes:** `container-fluid project py-5 mb-5`
+- **Research:**
+  - `container-fluid` makes the section stretch across the full width of the page.
+  - `project` applies custom styling for the project section.
+  - `py-5` adds vertical padding.
+  - `mb-5` adds margin below the section.
+
+### Blog Section
+
+- **Line Numbers:** 392-496
+- **Top-Level Classes:** `container-fluid blog py-5 mb-5`
+- **Research:**
+  - `container-fluid` makes the section full width.
+  - `blog` applies the template's custom blog styling.
+  - `py-5` adds vertical padding.
+  - `mb-5` adds spacing below the section.
+
+### Team Section
+
+- **Line Numbers:** 499-586
+- **Top-Level Classes:** `container-fluid py-5 mb-5 team`
+- **Research:**
+  - `container-fluid` makes the section stretch across the page.
+  - `py-5` adds vertical padding.
+  - `mb-5` adds margin below the section.
+  - `team` applies the template's custom styling for the team section.
+
+### Testimonial Section
+
+- **Line Numbers:** 588-684
+- **Top-Level Classes:** `container-fluid testimonial py-5 mb-5`
+- **Research:**
+  - `container-fluid` makes the section full width.
+  - `testimonial` applies custom styling for the testimonial section.
+  - `py-5` adds vertical padding.
+  - `mb-5` adds spacing below the section.
+
+### Contact Section
+
+- **Line Numbers:** 687-760
+- **Top-Level Classes:** `container-fluid py-5 mb-5`
+- **Research:**
+  - `container-fluid` makes the contact section stretch across the full width of the page.
+  - `py-5` adds vertical padding.
+  - `mb-5` adds margin below the contact section.
+
+### The Footer
+
+- **Line Numbers:** 763-820
+- **Top-Level Classes:** `container-fluid footer bg-dark wow fadeIn`
+- **Research:**
+  - `container-fluid` makes the footer stretch across the full width of the page.
+  - `footer` applies the template's custom footer styling.
+  - `bg-dark` gives the footer a dark background.
+  - `wow` works with the WOW.js animation library.
+  - `fadeIn` gives the footer a fade-in animation effect.
