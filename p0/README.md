@@ -71,6 +71,8 @@
   - `container-fluid` makes the section stretch across the full width of the page.
   - `bg-secondary` gives the section the secondary Bootstrap background color.
   - `py-5` adds vertical padding to the top and bottom of the section.
+```
+```
 
 ## Section 3: Site Inventory (Bottom Half)
 
@@ -152,3 +154,33 @@
   - `bg-dark` gives the footer a dark background.
   - `wow` works with the WOW.js animation library.
   - `fadeIn` gives the footer a fade-in animation effect.
+
+```
+```
+## Section 4: The Scripts
+
+### Vendor JS Files
+
+- **Line 828:** jQuery 3.6.4
+  - Provides JavaScript functionality used by some of the template's plugins.
+
+- **Line 829:** Bootstrap 5.0.0 Bundle
+  - Provides Bootstrap's interactive JavaScript features.
+
+- **Line 830:** WOW.js
+  - Provides scroll-based animation effects.
+
+- **Line 831:** Easing
+  - Provides smooth easing effects for animations.
+
+- **Line 832:** Waypoints
+  - Helps trigger functions when scrolling to certain parts of the page.
+
+- **Line 833:** Owl Carousel
+  - Provides the carousel and slider functionality used in the template.
+
+### Main JS File
+
+- **Line 836:** `js/main.js`
+  - This is the template's main custom JavaScript file.
+  - It controls the template's custom interactive features and behavior.
