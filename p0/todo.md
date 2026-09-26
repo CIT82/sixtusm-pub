@@ -2,47 +2,65 @@
 
 ## Architecture - The 12 Pages
 
-- [ ] Keep `index.html` as the main Home page.
-- [ ] Create an About page for information about the company and its purpose.
-- [ ] Create a Services page that explains the IT services offered.
-- [ ] Create a Web Design page for website design services.
-- [ ] Create a Web Development page for development services.
-- [ ] Create a Technical Support page for computer and IT support services.
-- [ ] Create a Networking page for network setup and troubleshooting services.
-- [ ] Create a Projects page to display completed IT and web projects.
+- [x] Keep `index.html` as the main Home page.
+- [x] Create an About page for information about the company and its purpose.
+- [x] Create a Services page that explains the IT services offered.
+- [x] Create a Web Design page for website design services.
+- [x] Create a Web Development page for development services.
+- [x] Create a Technical Support page for computer and IT support services.
+- [x] Create a Networking page for network setup and troubleshooting services.
+- [x] Create a Projects page to display IT and web projects.
+- [x] Create a Website Maintenance page for website support and maintenance services.
 - [ ] Create a Team page for staff or team member information.
 - [ ] Create a Testimonials page for customer feedback.
 - [ ] Create a Blog page for IT tips and technology information.
-- [ ] Create a Contact page with contact information and a contact form.
-- [ ] Create a Sitemap page that links to all pages on the website.
+- [x] Create a Contact page with contact information and a contact form.
+- [x] Create a Sitemap page that links to the main content pages on the website.
 
 ## Content Replacement
 
-- [ ] Replace the HighTech template name with my own IT business or website name.
-- [ ] Rewrite the Home page headings and paragraphs with my own original content.
-- [ ] Remove all Lorem Ipsum text and replace it with information related to IT services.
-- [ ] Replace the template service descriptions with my own service descriptions.
-- [ ] Replace the project examples with IT and web development project content.
-- [ ] Replace the template images with images that match each page and service.
-- [ ] Update the contact information with the correct business information.
-- [ ] Give every page a unique `<title>` that describes that page.
+- [x] Replace the HighTech template name with SixTech Solutions.
+- [x] Rewrite the Home page headings and paragraphs with my own original content.
+- [x] Replace template service descriptions with my own IT service descriptions.
+- [x] Replace project examples with IT and web development project content.
+- [ ] Continue replacing template images with images that match each page and service.
+- [x] Update the website with SixTech Solutions business information.
+- [x] Give the completed content pages unique `<title>` elements.
+- [ ] Continue checking for any remaining template filler or Lorem Ipsum content.
 
 ## Design & Bootstrap
 
-- [ ] Change the Bootstrap colors so the website has a consistent IT business color scheme.
-- [ ] Update button text and styles so the calls to action match my website.
-- [ ] Update the navigation menu so it links to all of the correct pages.
-- [ ] Make sure the navbar works correctly on desktop and mobile screens.
-- [ ] Adjust spacing, padding, and margins where needed to improve the layout.
-- [ ] Keep the Bootstrap grid responsive on different screen sizes.
-- [ ] Update cards and other Bootstrap components to match the content of my site.
+- [x] Use a consistent SixTech color scheme throughout the website.
+- [x] Update button text and calls to action to match my website.
+- [x] Update the navigation menu with working links.
+- [x] Use the same navigation across the main project pages.
+- [x] Keep the Bootstrap layout responsive.
+- [x] Update cards and Bootstrap components to match my IT services content.
+- [x] Create and test `skeleton.html` as the base for new pages.
+- [x] Add a sitemap link to the footer.
+- [x] Create a SixTech favicon.
+- [x] Test the favicon on `skeleton.html`.
+- [x] Add the favicon to all project HTML pages.
+
+## Recent Progress
+
+- [x] Built 10+ content pages for Project 0.
+- [x] Created `sitemap.html` with working page links.
+- [x] Updated navigation and footer links across the site.
+- [x] Tested page links and corrected links that were not clickable.
+- [x] Added Website Maintenance as an additional service page.
+- [x] Added the universal SixTech favicon across the project.
+- [x] Added favicon support for browser tabs, Apple touch icons, and the web app manifest.
+- [x] Updated `todo.md` to reflect current Project 0 progress.
 
 ## Cleanup
 
 - [ ] Remove template sections that I do not need.
 - [ ] Remove unused images from the `img` folder.
 - [ ] Remove unused CSS or JavaScript files if they are no longer needed.
-- [ ] Remove empty links and replace all `href=""` or placeholder links.
-- [ ] Remove template text, names, dates, and sample contact information.
-- [ ] Check every page for broken links and missing images.
-- [ ] Check the completed site for leftover HighTech template content.
+- [x] Correct empty or placeholder links found during link testing.
+- [ ] Remove any remaining template text, names, dates, or sample information.
+- [x] Test navigation and sitemap links for broken links.
+- [ ] Check every page for missing images.
+- [ ] Complete a final check for leftover HighTech template content.
+- [ ] Complete final mobile and desktop testing.
