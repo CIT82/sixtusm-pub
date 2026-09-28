@@ -11,9 +11,6 @@
 - [x] Create a Networking page for network setup and troubleshooting services.
 - [x] Create a Projects page to display IT and web projects.
 - [x] Create a Website Maintenance page for website support and maintenance services.
-- [ ] Create a Team page for staff or team member information.
-- [ ] Create a Testimonials page for customer feedback.
-- [ ] Create a Blog page for IT tips and technology information.
 - [x] Create a Contact page with contact information and a contact form.
 - [x] Create a Sitemap page that links to the main content pages on the website.
 
@@ -23,10 +20,8 @@
 - [x] Rewrite the Home page headings and paragraphs with my own original content.
 - [x] Replace template service descriptions with my own IT service descriptions.
 - [x] Replace project examples with IT and web development project content.
-- [ ] Continue replacing template images with images that match each page and service.
 - [x] Update the website with SixTech Solutions business information.
 - [x] Give the completed content pages unique `<title>` elements.
-- [ ] Continue checking for any remaining template filler or Lorem Ipsum content.
 
 ## Design & Bootstrap
 
@@ -53,14 +48,10 @@
 - [x] Added favicon support for browser tabs, Apple touch icons, and the web app manifest.
 - [x] Updated `todo.md` to reflect current Project 0 progress.
 
-## Cleanup
+## Final Sprint - Week 9
 
-- [ ] Remove template sections that I do not need.
-- [ ] Remove unused images from the `img` folder.
-- [ ] Remove unused CSS or JavaScript files if they are no longer needed.
 - [x] Correct empty or placeholder links found during link testing.
-- [ ] Remove any remaining template text, names, dates, or sample information.
 - [x] Test navigation and sitemap links for broken links.
-- [ ] Check every page for missing images.
-- [ ] Complete a final check for leftover HighTech template content.
-- [ ] Complete final mobile and desktop testing.
+- [ ] Replace any remaining template images and content with SixTech content.
+- [ ] Check every page for leftover HighTech template text or sample information.
+- [ ] Complete final mobile and desktop testing on all pages.
